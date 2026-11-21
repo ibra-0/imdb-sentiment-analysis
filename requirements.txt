@@ -1,0 +1,5 @@
+torch>=2.6,<3
+datasets>=3,<5
+numpy>=2,<3
+scikit-learn>=1.6,<2
+matplotlib>=3.9,<4
